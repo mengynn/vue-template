@@ -1,0 +1,24 @@
+# Logs
+logs
+*.log
+
+# Node.js
+node_modules/
+
+# Build files
+/dist/
+/.nuxt/
+/npm-debug.log*
+
+# Local env files
+.env.local
+.env.*.local
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw??

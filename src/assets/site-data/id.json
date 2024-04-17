@@ -1,0 +1,62 @@
+{
+  "127.0.0.1": {
+    "adsense": {
+      "client": "ca-pub-7657541870612173",
+      "index": "8411992774",
+      "category": "5471749062",
+      "detail": "8954918252",
+      "history": "8220421081"
+    }
+  },
+  "g.infinitemeta.net": {
+    "ad": {
+      "type": "adsense",
+      "adsense": {
+        "client": "ca-pub-7657541870612173",
+        "index": "8411992774",
+        "category": "5471749062",
+        "detail": "8954918252",
+        "history": "8220421081",
+        "play": "7676376041",
+        "search": "6363294378"
+      },
+      "adx": {
+        "banner": {
+          "id": "/21880406607/ca-pub-4881399016139609-tag/h5gameadx_nbxminihubcc_320x50_banner_2",
+          "size": [320, 100]
+        }
+      }
+    }
+  },
+  "g2.infinitemeta.net": {
+    "adsense": {
+      "client": "ca-pub-7657541870612173",
+      "index": "1302539389",
+      "category": "1501069680",
+      "play": "7676376041",
+      "search": "6363294378"
+    }
+  },
+  "g3.infinitemeta.net": {
+    "adsense": {
+      "client": "ca-pub-7657541870612173",
+      "index": "7536775241",
+      "play": "7874906341"
+    }
+  },
+  "g4.infinitemeta.net": {
+    "adsense": {
+      "client": "ca-pub-7657541870612173",
+      "index": "6223693574",
+      "category": "8215539896",
+      "detail": "3374168957"
+    }
+  },
+  "g5.infinitemeta.net": {
+    "adsense": {
+      "client": "ca-pub-7657541870612173",
+      "index": "9748005616",
+      "detail": "3737131033"
+    }
+  }
+}
